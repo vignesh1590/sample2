@@ -1,6 +1,7 @@
 # BikeSharing_LinearRegression
 Upgrade Excercise - Bike Sharing Linear Regression
 
+Developed by Vignesh M
 =========================================
 Dataset characteristics
 =========================================	
